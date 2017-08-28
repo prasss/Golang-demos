@@ -1,0 +1,19 @@
+{"pokemon_data":
+  {
+    "pokemon_type":
+    [{ "fire":
+       [{"pokemon":"charmander","attack:":"flamethrower"},
+        {"pokemon":"torchick","attack:":"ember"},
+        {"pokemon":"chimchar","attack:":"scratch"}]}
+     { "water":
+       [{"pokemon":"squirtel","attack:":"watergun"},
+        {"pokemon":"piplup","attack:":"peck"},
+        {"pokemon":"mudkip","attack:":"tackle"}]}
+
+    {"grass":
+      [{"pokemon":"bulbasaur","attack:":"winewhip"},
+       {"pokemon":"grovyle","attack:":"leafblade"}
+       {"pokemon":"sunflora","attack:":"solarbeam"}]}
+    ]
+  }
+}

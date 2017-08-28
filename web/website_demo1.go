@@ -17,8 +17,6 @@ func (m web) ServeHTTP(w http.ResponseWriter, r *http.Request){
   fmt.Fprintf(w,"yoooo")
 }
 func main(){
-  //http.Handle("/",http.FileServer(http.Dir("./static")))
-  //log.Fatal(http.ListenAndServe(":8081",nil))
 var d web
 http.ListenAndServe(":8080", d)
 
